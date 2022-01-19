@@ -5,7 +5,7 @@
 ## 벌금💰
 ### 최지수 [github](https://github.com/cjscoding) - 0원
 ### 김혜인 [github](https://github.com/HyeIn-Kim) - 0원
-### 최다운 [github](https://github.com/choidawoon) - 0원
+### 최다운 [github](https://github.com/choidawoon) - 3000원
 ### 서은민 [github](https://github.com/Mongerr) - 0원
 ### 장소명 [github](https://github.com/uuuouuo/Algo) - 0원
 ### 이명원 [github](https://github.com/lmw0122) - 0원

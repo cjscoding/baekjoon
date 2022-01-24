@@ -8,7 +8,7 @@
 ### 최다운 [github](https://github.com/choidawoon) - 6000원
 ### 서은민 [github](https://github.com/Mongerr) - 3000원
 ### 장소명 [github](https://github.com/uuuouuo/Algo) - 0원
-### 이명원 [github](https://github.com/lmw0122) - 0원
+### 이명원 [github](https://github.com/lmw0122) - 3000원
 
 </br>
 

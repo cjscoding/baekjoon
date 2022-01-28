@@ -9,7 +9,7 @@
 ### 서은민 [github](https://github.com/Mongerr) - 3000원
 ### 장소명 [github](https://github.com/uuuouuo/Algo) - 0원
 ### 이명원 [github](https://github.com/lmw0122) - 3000원
-### 이명원 [github](https://github.com/aff4110) - 0원
+### 김희섭 [github](https://github.com/aff4110) - 0원
 
 </br>
 

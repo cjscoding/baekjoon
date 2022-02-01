@@ -4,7 +4,7 @@
 
 ## 벌금💰
 
-### 최지수 [github](https://github.com/cjscoding) - 0원
+### 최지수 [github](https://github.com/cjscoding) - 3000원
 
 ### 김혜인 [github](https://github.com/HyeIn-Kim) - 3000원
 

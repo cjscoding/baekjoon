@@ -10,7 +10,7 @@
 
 ### 최다운 [github](https://github.com/choidawoon) - 6000원
 
-### 서은민 [github](https://github.com/Mongerr) - 3000원
+### 서은민 [github](https://github.com/Mongerr) - 6000원
 
 ### 장소명 [github](https://github.com/uuuouuo) - 3000원
 

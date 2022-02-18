@@ -12,7 +12,7 @@
 
 ### 서은민 [github](https://github.com/Mongerr) - 9000원
 
-### 장소명 [github](https://github.com/uuuouuo) - 3000원
+### 장소명 [github](https://github.com/uuuouuo) - 6000원
 
 ### 이명원 [github](https://github.com/lmw0122) - 15000원
 

@@ -16,7 +16,7 @@
 
 ### 이명원 [github](https://github.com/lmw0122) - 18000원
 
-### 김희섭 [github](https://github.com/aff4110) - 3000원
+### 김희섭 [github](https://github.com/aff4110) - 6000원
 
 </br>
 

@@ -13,7 +13,6 @@ public class 신규아이디추천 {
 
             for (int i = 0; i < new_id.length(); i++) {
                 for (int j = 0; j < str.length(); j++) {
-                    // System.out.println(j);
 
                     if (new_id.contains(noUse[j])) {
                         new_id = new_id.replaceAll("\\" + noUse[j], "");
@@ -52,7 +51,7 @@ public class 신규아이디추천 {
                     new_id = new_id.substring(0, new_id.length() - 1);
             }
             
-            // 7단계: 3자리 이하면 마지막 복사
+            // 7단계
             while (new_id.length() < 3) {
                 String lastStr = new_id.substring(new_id.length() - 1);
                 new_id += lastStr;

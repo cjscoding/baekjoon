@@ -1,0 +1,33 @@
+package Lv1;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class 나누어떨어지는숫자배열 { 
+	public static void main(String[] args) {
+
+		
+		int[] arr  = new int[]{2, 36, 1, 3};
+		int divisor = 1;
+		
+		int[] answer = solution(arr, divisor);
+		System.out.println(Arrays.toString(answer));
+	}
+	
+	
+	static int[] solution(int[] arr, int divisor) {
+        
+        List<Integer> array = new ArrayList<>();
+        for(int i : arr) {
+        	if(i % divisor == 0)
+        		array.add(i);
+        }
+        
+        array.sort(null);
+        
+        int[] answer = array.stream().mapToInt(Integer::intValue).toArray();
+        
+        return (answer.length != 0)? answer : new int[] {-1};
+    }
+}

@@ -8,7 +8,7 @@
 
 ### 김혜인 [github](https://github.com/HyeIn-Kim) - 12000원
 
-### 최다운 [github](https://github.com/choidawoon) - 12000원
+### 최다운 [github](https://github.com/choidawoon) - 15000원
 
 ### 서은민 [github](https://github.com/Mongerr) - 18000원
 

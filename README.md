@@ -14,7 +14,7 @@
 
 ### 장소명 [github](https://github.com/uuuouuo) - 15000원
 
-### 이명원 [github](https://github.com/lmw0122) - 18000원
+### 이명원 [github](https://github.com/lmw0122) - 21000원
 
 </br>
 

@@ -8,15 +8,13 @@
 
 ### 김혜인 [github](https://github.com/HyeIn-Kim) - 12000원
 
-### 최다운 [github](https://github.com/choidawoon) - 12000원
+### 최다운 [github](https://github.com/choidawoon) - 15000원
 
-### 서은민 [github](https://github.com/Mongerr) - 15000원
+### 서은민 [github](https://github.com/Mongerr) - 18000원
 
-### 장소명 [github](https://github.com/uuuouuo) - 15000원
+### 장소명 [github](https://github.com/uuuouuo) - 18000원
 
-### 이명원 [github](https://github.com/lmw0122) - 18000원
-
-### 김희섭 [github](https://github.com/aff4110) - 6000원
+### 이명원 [github](https://github.com/lmw0122) - 21000원
 
 </br>
 
